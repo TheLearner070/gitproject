@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"imgs/m1.jfif",
+        "name":"OnePlus+",
+        "rate":"40000",
+        "offer":"37500",
+        "button":"view"
+    },{
+        "img":"imgs/m2.jfif",
+        "name":"iPhone 13 pro",
+        "rate":"120000",
+        "offer":"110000",
+        "button":"view"
+    },{
+        "img":"imgs/m33.jfif",
+        "name":"iPhone 11",
+        "rate":"80000",
+        "offer":"78500",
+        "button":"view"
+    }
+    ]
+}
